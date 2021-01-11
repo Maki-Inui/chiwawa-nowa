@@ -1,0 +1,130 @@
+ヘッダーメニュー
+font-family
+noto-sans-cjk-jp, sans-serif;
+
+font-weight
+500
+
+Size
+14px
+Line Height
+21px
+color: #1d1d1d;
+
+
+ヘッダーナビ
+font-family
+montserrat, sans-serif;
+font-weight
+400
+
+
+Size
+11px
+Line Height
+21px
+color: #999999;
+
+
+メイン
+h1
+Size
+40px
+Line Height
+68px
+color: #1d1d1d;
+
+h3
+Size
+16px
+Line Height
+16px
+color: #1d1d1d;
+
+アバウト
+
+about
+
+Size
+18px
+Line Height
+26px
+color: #999999;
+
+
+h2
+
+font-weight
+400
+
+Size
+30px
+Line Height
+38px
+color: #1d1d1d;
+
+
+h3
+Size
+16px
+Line Height
+32px
+color: #1d1d1d;
+
+ボタンの文字
+Size
+16px
+Line Height
+24px
+color: #1d1d1d;
+
+
+ブリーダーさんの紹介
+
+h2
+Size
+30px
+Line Height
+38px
+color: #1d1d1d;
+
+p
+Size
+14px
+Line Height
+28px
+
+ブリーダー名
+Size
+16px
+Line Height
+25px
+
+
+h2
+Size
+20px
+Line Height
+35px
+color: #1d1d1d;
+
+p
+Size
+14px
+Line Height
+22px
+
+
+
+sitemap
+Size
+16px
+Line Height
+21px
+color: #1d1d1d;
+
+
+
+
+
+
